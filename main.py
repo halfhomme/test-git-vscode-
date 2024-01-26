@@ -16,6 +16,6 @@ elif num > 1:
         break
 # check if flag is True
     if flag:
-        print(num, "on est la") 
+        print(num, "aze") 
     else:
-        print(num, "on est la")
+        print(num, "aze")
